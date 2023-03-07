@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055793327063",
+    "project_id": "small-shopping-b4210",
+    "storage_bucket": "small-shopping-b4210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055793327063:android:6d3aa57c5a12dcf307b992",
+        "android_client_info": {
+          "package_name": "com.example.active"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055793327063-3dm1b0m4s4molv7rssrtfhe5vg85pbir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3v3nlmKR6W8ZoBpwS3SD6K1YJqlLGvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055793327063-3dm1b0m4s4molv7rssrtfhe5vg85pbir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
